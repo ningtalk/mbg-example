@@ -107,7 +107,7 @@ MyBatis generator example
 ```
 
 ## 3.配置maven运行
-[!maven配置](https://github.com/npvip/mbg-example/blob/master/img/idea-mbg.png)
+![maven配置](https://github.com/npvip/mbg-example/blob/master/img/idea-mbg.png)
 
 # 参考  
 * MyBatis Generator:http://www.mybatis.org/generator/index.html
