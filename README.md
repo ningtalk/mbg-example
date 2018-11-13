@@ -3,6 +3,7 @@ MyBatis generator example
 * Maven
 * IntelliJ IDEA
 * MySQL
+* JDK1.8
 
 # 使用步骤  
 ## 1.引入依赖jar包和插件到`pom.xml`
@@ -108,6 +109,9 @@ MyBatis generator example
 
 ## 3.配置maven运行
 ![maven配置](https://github.com/npvip/mbg-example/blob/master/img/idea-mbg.png)
+
+# 注意
+* 注意JDK版本：如果JDK版本低于1.8，则`mybatis-generator-maven-plugin`,`mybatis-generator-core`需选择靠前的版本(JDK1.7->1.3.2有效)
 
 # 参考  
 * MyBatis Generator:http://www.mybatis.org/generator/index.html
